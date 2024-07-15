@@ -1,4 +1,4 @@
-package com.library.domain.entity;
+package com.library.domain;
 
 import org.springframework.util.Assert;
 

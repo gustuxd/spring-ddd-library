@@ -1,4 +1,4 @@
-package com.library.domain;
+package com.library.domain.entity;
 
 import jakarta.persistence.*;
 import org.springframework.util.Assert;
